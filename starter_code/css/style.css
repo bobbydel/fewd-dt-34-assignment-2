@@ -1,8 +1,8 @@
 /*
-Project Name: Blank Template
-Client: Your Client
-Author: Your Name
-Developer @GA in NYC
+Project Name: Relaxr Front Page
+Client: Relaxr
+Author: Bobby Deltondo
+Developer @GA in DTLA
 */
 
 /******************************************
@@ -158,11 +158,10 @@ button {
 }
 
 .foot {
-background-color: #121212;
+  background-color: #121212;
   padding: 65px;
- 
-
 }
+
 h4 {
   color: yellow;
   font-family: 'Open Sans';
@@ -170,6 +169,7 @@ h4 {
   font-size: 24px;
   text-align: center;
 }
+
 footer {
   color: white;
   text-align: center;
@@ -184,15 +184,16 @@ h3 {
   font-weight: 600;
   padding: 100px 0 0 80px;
 }
+
 .flex-column-sm {
   justify-content: center;
   padding: 40px;
   display: flex;
 }
+
 #fb {
   margin-left: 10px;
 }
-
 
 .benetext {
   padding: 30px 0 40px 85px;
@@ -228,11 +229,11 @@ li {
   background-color: darkblue;
   color: white;
 }
-.flex-column {
- background-color: yellow;
- justify-content: center;
- padding: 50px;
- align-items: center;
- display: flex;
-}
 
+.flex-column {
+  background-color: yellow;
+  justify-content: center;
+  padding: 50px;
+  align-items: center;
+  display: flex;
+}
