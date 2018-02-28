@@ -73,10 +73,6 @@ body {
   float: left;
 }
 
-header {}
-
-footer {}
-
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
@@ -212,12 +208,6 @@ h3 {
 li {
   margin: 5px;
 }
-
-/* .sun {
-  background-color: yellow;
-  padding: 100px;
-  width: 100%;
-} */
 
 #signup {
   font-family: 'Open Sans';
