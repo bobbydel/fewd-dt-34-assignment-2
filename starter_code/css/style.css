@@ -108,6 +108,7 @@ button {
   text-align: center;
   background-color: yellow;
   margin-top: 45px;
+  padding: 5px 15px 5px 15px;
 }
 
 .benefit {
@@ -218,6 +219,7 @@ li {
   text-align: center;
   background-color: darkblue;
   color: white;
+  padding: 5px 15px 5px 15px;
 }
 
 .flex-column {
